@@ -8,9 +8,9 @@
       "js": ["https://cdn.jsdelivr.net/npm/chart.js"]
     },
     "components": {
-      "viz": "https://cdn.jsdelivr.net/gh/eunseoelee-yanolja/radar-chart-test@main/radar_chart.js"
+      "viz": "https://cdn.jsdelivr.net/gh/eunseolee-yanolja/radar-chart-test@main/radar_chart.js"
     },
-    "style": "https://cdn.jsdelivr.net/gh/eunseoelee-yanolja/radar-chart-test@main/radar_chart.css",
+    "style": "https://cdn.jsdelivr.net/gh/eunseolee-yanolja/radar-chart-test@main/radar_chart.css",
     "icon": "radar_chart_icon"
   }
 }
