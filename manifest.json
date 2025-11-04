@@ -5,9 +5,9 @@
     "company": "Instituto STEM",
     "version": "1.0.0",
     "components": {
-      "viz": "https://leonouv75.github.io/looker-radar-chart/radar_chart.js"
+      "viz": "https://eunseolee-yanolja.github.io/looker-radar-chart/radar_chart.js"
     },
-    "style": "https://leonouv75.github.io/looker-radar-chart/radar_chart.css",
+    "style": "https://eunseolee-yanolja.github.io/looker-radar-chart/radar_chart.css",
     "icon": "radar_chart_icon"
   }
 }
